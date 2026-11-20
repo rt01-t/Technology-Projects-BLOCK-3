@@ -8,7 +8,8 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+(Add screenshot here)<img width="964" height="303" alt="20261120_171020_grim" src="https://github.com/user-attachments/assets/b5c7a5fb-cb1e-4367-80a6-6ef6b17c7e67" />
+
 
 ### Questions
 
@@ -28,6 +29,8 @@ Run:
     echo "Tr4!nBicyclePlanet" | cracklib-check
 
 ### Screenshot
+<img width="1203" height="526" alt="20261120_171112_grim" src="https://github.com/user-attachments/assets/76e4ccd5-a61a-4f3e-b672-db80b5f41e12" />
+<img width="1246" height="683" alt="20261120_171426_grim" src="https://github.com/user-attachments/assets/6ed9e6ec-7d45-4f7d-9265-f390b05fa120" />
 
 (Add screenshot here)
 
