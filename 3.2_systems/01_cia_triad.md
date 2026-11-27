@@ -40,8 +40,10 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     sha256sum secrets.txt
     ```
     _What does "hash" do?
+   A hash generate a unique digital value from a file. It helps check whether the file has been changed.
 
 1. Save the output.
+    
 
 1. Modify the file.
     ```bash
@@ -53,8 +55,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 ** Questions**
 - Did the hash change?
+-  yes, the hash changed because the file content was modified.
 - Why do security systems use hashing?
-
+  Security systems use hashing to check data integrity and detect unauthorised changes.
 
 # Part 3 – Availability
 
