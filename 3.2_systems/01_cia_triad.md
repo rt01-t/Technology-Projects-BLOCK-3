@@ -73,7 +73,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 **Questions**
 - Why is system uptime important?
+  It shows how long a compouter has been running.
 - What happens if a system is unavailable?
+   user cannot access its services or data.
 
 ## Deliverables
 Include:
