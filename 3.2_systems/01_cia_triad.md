@@ -29,7 +29,9 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 **Questions**
 - Who can read this file?
+-  only the file owner can read this file.
 - How does file permission protect confidentiality?
+-  It prevents other users from reading or accessing the confidential.
 
 ## Part 2 – Integrity
 
